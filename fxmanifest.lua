@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'AICORE_NewsJob'
-repository 'https://github.com/0error-scripts/aicore_newsjob'
+repository 'https://github.com/aicore-fivem/aicore_newsjob'
 version '1.0.1'
 
 ox_lib 'locale'
